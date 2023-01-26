@@ -1,0 +1,12 @@
+org.apache.commons.lang.text.StrBuilder@108 0.40334221720695496
+org.apache.commons.lang.text.StrBuilder@882 0.3712151050567627
+org.apache.commons.lang.text.StrBuilder@881 0.36670368909835815
+org.apache.commons.lang.text.StrBuilder@884 0.3592354655265808
+org.apache.commons.lang.text.StrBuilder@879 0.33591318130493164
+org.apache.commons.lang.text.StrBuilder@880 0.3326222002506256
+org.apache.commons.lang.text.StrBuilder@883 0.30280378460884094
+org.apache.commons.lang.text.StrBuilder@107 0.298937052488327
+org.apache.commons.lang.text.StrBuilder@111 0.2769921123981476
+org.apache.commons.lang.text.StrBuilder@228 0.20258893072605133
+org.apache.commons.lang.text.StrBuilder@112 0.1929035484790802
+org.apache.commons.lang.text.StrBuilder@233 0.18207037448883057
